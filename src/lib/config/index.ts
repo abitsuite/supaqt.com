@@ -1,7 +1,7 @@
 import type { Link } from '../types'
 
 export const SITE = {
-    title: 'SupaQt Alpha • Builders Spotlight',
+    title: 'SupaQt Alpha • Builder Spotlight',
     description: 'Showcase for SupaQt Community of Builders',
     author: 'aBitSuite',
     url: 'https://supaqt.com',
