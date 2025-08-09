@@ -1,9 +1,9 @@
 import type { Link } from '../types'
 
 export const SITE = {
-    title: 'SupaQt Alpha',
-    description: 'A news website built with Astro',
-    author: '0xShomari',
+    title: 'SupaQt Alpha • Builders Showcase',
+    description: 'Showcase for SupaQt Community of Builders',
+    author: 'aBitSuite',
     url: 'https://supaqt.com',
     github: 'https://github.com/abitsuite',
     locale: 'en-US',
