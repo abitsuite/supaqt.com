@@ -5,7 +5,7 @@ export const SITE = {
     description: 'A news website built with Astro',
     author: '0xShomari',
     url: 'https://supaqt.com',
-    github: 'https://github.com/abitsuite/supaqt.com',
+    github: 'https://github.com/abitsuite',
     locale: 'en-US',
     dir: 'ltr',
     charset: 'UTF-8',
@@ -47,7 +47,7 @@ export const OTHER_LINKS: Link[] = [
     },
     {
         href: '/authors',
-        text: 'Bloggers',
+        text: 'Media Kit',
     },
     {
         href: '/contact',
@@ -66,6 +66,10 @@ export const OTHER_LINKS: Link[] = [
         text: 'Cookie Policy',
     },
     {
+        href: 'https://astro-news-six.vercel.app/sitemap-index.xml',
+        text: 'LLM',
+    },
+    {
         href: 'https://astro-news-six.vercel.app/rss.xml',
         text: 'RSS',
     },
@@ -77,23 +81,23 @@ export const OTHER_LINKS: Link[] = [
 
 export const SOCIAL_LINKS: Link[] = [
     {
-        href: 'https://github.com',
+        href: 'https://github.com/abitsuite',
         text: 'GitHub',
         icon: 'github',
     },
     {
-        href: 'httpe://www.t.me',
-        text: 'Telegram',
-        icon: 'telegram',
-    },
-    {
-        href: 'https://twitter.com',
+        href: 'https://x.com/SupaQtC',
         text: 'Twitter',
         icon: 'newTwitter',
     },
-    {
-        href: 'https://www.facebook.com',
-        text: 'Facebook',
-        icon: 'facebook',
-    },
+    // {
+    //     href: 'httpe://www.t.me',
+    //     text: 'Telegram',
+    //     icon: 'telegram',
+    // },
+    // {
+    //     href: 'https://www.facebook.com',
+    //     text: 'Facebook',
+    //     icon: 'facebook',
+    // },
 ]
