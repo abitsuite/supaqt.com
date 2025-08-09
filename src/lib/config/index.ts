@@ -47,7 +47,7 @@ export const OTHER_LINKS: Link[] = [
     },
     {
         href: '/authors',
-        text: 'Authors',
+        text: 'Bloggers',
     },
     {
         href: '/contact',
